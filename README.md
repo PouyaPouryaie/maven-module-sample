@@ -1,2 +1,2 @@
-# springboot-microservices
-Sample Project show how use springBoot and springCloud to build App base on Microservice architectures
+# Maven-module
+Sample Project show how use springBoot and maven to create module and use spring-boot as dependencyManagement
